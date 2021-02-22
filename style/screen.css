@@ -544,6 +544,8 @@ text-decoration: underline;
     font: inherit;
     text-align: center;
     color: rgb(139, 15, 15);
+
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .c-budget:focus{
@@ -566,6 +568,8 @@ text-decoration: underline;
     border: none;
     border-radius: 5px;
     color: white;
+
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
    
 
 }
