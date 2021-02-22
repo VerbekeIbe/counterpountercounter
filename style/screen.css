@@ -531,6 +531,7 @@ a:focus {
 
 .c-title {
 font-size: 50px;
+text-decoration: underline;
 }
 
 .c-budget {
