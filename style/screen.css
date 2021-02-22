@@ -33,6 +33,16 @@ html {
     background-color: white;
 
     text-shadow: 2px 2px 4px #000000;
+
+    background-image: url("https://i.pinimg.com/originals/2d/b3/c5/2db3c523682d32a78d48ecf28250effb.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 *,
@@ -434,10 +444,7 @@ a:focus {
 
     /* background */
 
-    background-image: url("https://i.pinimg.com/originals/2d/b3/c5/2db3c523682d32a78d48ecf28250effb.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+
 
     display: flex;
     justify-content: center;
