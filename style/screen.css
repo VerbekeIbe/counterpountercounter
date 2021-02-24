@@ -22,6 +22,11 @@
     Global page styles + universal box-sizing:
 */
 
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
 html {
     font-size: 16px;
     line-height: 1.5;
@@ -43,6 +48,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    overflow: scroll;
 }
 
 *,
